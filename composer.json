@@ -1,11 +1,11 @@
 {
-    "name": "designermadsen/ocean-api",
+    "name": "io-jaegers/ocean-api",
     "description": "API Framework",
-    "type": "library",
+    "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Designermadsen\\OceanApi\\": "code/"
+            "IOJaegers\\OceanApi\\": "code/"
         }
     },
     "authors": [

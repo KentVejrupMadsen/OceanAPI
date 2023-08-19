@@ -1,0 +1,17 @@
+{
+    "name": "designermadsen/ocean-api",
+    "description": "API Framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Designermadsen\\OceanApi\\": "code/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kent vejrup Madsen"
+        }
+    ],
+    "require": {}
+}

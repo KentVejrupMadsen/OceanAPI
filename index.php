@@ -1,10 +1,7 @@
 <?php 
     include './vendor/autoload.php';
-
-    use IOJaegers\OceanApi\OceanAPIFramework as Framework;
-
-    $application = new Framework();
-
-    $application->initialise();
+    use IOJaegers\OceanApi\Application;
+    
+    $application = new Application();
     $application->execute();
 ?>

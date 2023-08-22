@@ -13,5 +13,7 @@
             "name": "Kent vejrup Madsen"
         }
     ],
-    "require": {}
+    "require": {
+        "predis/predis": "^2.2"
+    }
 }
